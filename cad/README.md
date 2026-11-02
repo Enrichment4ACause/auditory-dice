@@ -19,4 +19,5 @@ Name files after the part, for example `motor-mount.step` and `motor-mount.stl`.
 
 ## Onshape link
 
-Paste your Onshape document link here (set sharing to public or "anyone with the link").
+[OnShape CAD](https://cad.onshape.com/documents/17c3a78aee95cc388133121c/w/8ce1d2ac4cec8b7de911232c/e/a09f8563cb6e18569042a69d?renderMode=0&rightPanel=namedPositionPanel&uiState=6ab7e1094dd5cfb15c6a44d1
+)
