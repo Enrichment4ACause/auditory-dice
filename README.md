@@ -2,12 +2,12 @@
 
 > One sentence on what this project does and who it helps.
 
-**Team:** Name 1, Name 2, Name 3
+**Team:** Miluse Svobodova
 **Status:** Idea / Prototype / Testing / Done
 
 ## The problem
 
-What problem are you solving? Who has this problem? Why does it matter?
+Creating a button that serves as dice to enable a teen with blindness and impaired motor skills to participate in board games.
 
 ## Our solution
 
